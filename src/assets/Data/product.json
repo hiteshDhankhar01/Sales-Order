@@ -1,0 +1,131 @@
+[
+    {
+        "id": 201,
+        "display_id": 10,
+        "owner": 101,
+        "name": "Super Widget",
+        "category": "Widgets",
+        "characteristics": "High performance, lightweight",
+        "features": "Waterproof, Durable",
+        "brand": "WidgetCo",
+        "sku": [
+            {
+                "id": 301,
+                "selling_price": 50,
+                "max_retail_price": 45,
+                "amount": 20,
+                "unit": "kg",
+                "quantity_in_inventory": 10,
+                "product": 201,
+                "customer_profile": {
+                    "id": 101,
+                    "name": "Alice Johnson",
+                    "color": [255, 99, 71],
+                    "email": "alice@example.com",
+                    "pincode": "10001",
+                    "location_name": "New York, NY, USA",
+                    "type": "B",
+                    "profile_pic": null,
+                    "gst": "GSTIN123456789"
+                }
+            },
+            {
+                "id": 302,
+                "selling_price": 40,
+                "max_retail_price": 35,
+                "amount": 15,
+                "unit": "kg",
+                "quantity_in_inventory": 20,
+                "product": 201
+            }
+        ],
+        "updated_on": "2024-05-24T12:46:41.995873Z",
+        "adding_date": "2024-05-24T12:46:41.995828Z"
+    },
+    {
+        "id": 202,
+        "display_id": 11,
+        "owner": 102,
+        "name": "Mega Gadget",
+        "category": "Gadgets",
+        "characteristics": "Compact, Efficient",
+        "features": "Bluetooth, Rechargeable",
+        "brand": "GadgetPro",
+        "sku": [
+            {
+                "id": 303,
+                "selling_price": 60,
+                "max_retail_price": 55,
+                "amount": 10,
+                "unit": "kg",
+                "quantity_in_inventory": 15,
+                "product": 202,
+                "customer_profile": {
+                    "id": 102,
+                    "name": "Bob Smith",
+                    "color": [0, 191, 255],
+                    "email": "bob@example.com",
+                    "pincode": "94016",
+                    "location_name": "San Francisco, CA, USA",
+                    "type": "A",
+                    "profile_pic": null,
+                    "gst": "GSTIN987654321"
+                }
+            },
+            {
+                "id": 304,
+                "selling_price": 55,
+                "max_retail_price": 50,
+                "amount": 8,
+                "unit": "kg",
+                "quantity_in_inventory": 25,
+                "product": 202
+            }
+        ],
+        "updated_on": "2024-05-24T12:46:41.995873Z",
+        "adding_date": "2024-05-24T12:46:41.995828Z"
+    },
+    {
+        "id": 203,
+        "display_id": 12,
+        "owner": 103,
+        "name": "Ultra Device",
+        "category": "Devices",
+        "characteristics": "Versatile, Robust",
+        "features": "High Resolution, Long Battery Life",
+        "brand": "DeviceMaster",
+        "sku": [
+            {
+                "id": 305,
+                "selling_price": 70,
+                "max_retail_price": 65,
+                "amount": 25,
+                "unit": "kg",
+                "quantity_in_inventory": 5,
+                "product": 203,
+                "customer_profile": {
+                    "id": 103,
+                    "name": "Charlie Brown",
+                    "color": [75, 0, 130],
+                    "email": "charlie@example.com",
+                    "pincode": "60616",
+                    "location_name": "Chicago, IL, USA",
+                    "type": "C",
+                    "profile_pic": null,
+                    "gst": "GSTIN1122334455"
+                }
+            },
+            {
+                "id": 306,
+                "selling_price": 65,
+                "max_retail_price": 60,
+                "amount": 30,
+                "unit": "kg",
+                "quantity_in_inventory": 10,
+                "product": 203
+            }
+        ],
+        "updated_on": "2024-05-24T12:46:41.995873Z",
+        "adding_date": "2024-05-24T12:46:41.995828Z"
+    }
+]

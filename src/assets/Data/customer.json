@@ -1,0 +1,257 @@
+[
+    {
+        "id": 101,
+        "name": "Alice Johnson",
+        "color": [
+            255,
+            99,
+            71
+        ],
+        "email": "alice@example.com",
+        "pincode": "10001",
+        "location_name": "New York, NY, USA",
+        "type": "B",
+        "profile_pic": null,
+        "gst": "GSTIN123456789"
+    },
+    {
+        "id": 102,
+        "name": "Bob Smith",
+        "color": [
+            0,
+            191,
+            255
+        ],
+        "email": "bob@example.com",
+        "pincode": "94016",
+        "location_name": "San Francisco, CA, USA",
+        "type": "A",
+        "profile_pic": null,
+        "gst": "GSTIN987654321"
+    },
+    {
+        "id": 103,
+        "name": "Charlie Brown",
+        "color": [
+            75,
+            0,
+            130
+        ],
+        "email": "charlie@example.com",
+        "pincode": "60616",
+        "location_name": "Chicago, IL, USA",
+        "type": "C",
+        "profile_pic": null,
+        "gst": "GSTIN1122334455"
+    },
+    {
+        "id": 104,
+        "name": "David Lee",
+        "color": [
+            255,
+            165,
+            0
+        ],
+        "email": "david@example.com",
+        "pincode": "30301",
+        "location_name": "Atlanta, GA, USA",
+        "type": "B",
+        "profile_pic": null,
+        "gst": "GSTIN543216789"
+    },
+    {
+        "id": 105,
+        "name": "Emma Garcia",
+        "color": [
+            255,
+            20,
+            147
+        ],
+        "email": "emma@example.com",
+        "pincode": "90001",
+        "location_name": "Los Angeles, CA, USA",
+        "type": "A",
+        "profile_pic": null,
+        "gst": "GSTIN987654123"
+    },
+    {
+        "id": 106,
+        "name": "Frank Rodriguez",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "email": "frank@example.com",
+        "pincode": "77001",
+        "location_name": "Houston, TX, USA",
+        "type": "C",
+        "profile_pic": null,
+        "gst": "GSTIN1122337788"
+    },
+    {
+        "id": 107,
+        "name": "Grace Martinez",
+        "color": [
+            0,
+            0,
+            255
+        ],
+        "email": "grace@example.com",
+        "pincode": "60601",
+        "location_name": "Chicago, IL, USA",
+        "type": "B",
+        "profile_pic": null,
+        "gst": "GSTIN098765432"
+    },
+    {
+        "id": 108,
+        "name": "Henry Young",
+        "color": [
+            255,
+            0,
+            255
+        ],
+        "email": "henry@example.com",
+        "pincode": "20001",
+        "location_name": "Washington, D.C., USA",
+        "type": "A",
+        "profile_pic": null,
+        "gst": "GSTIN456789123"
+    },
+    {
+        "id": 109,
+        "name": "Ivy Hall",
+        "color": [
+            128,
+            0,
+            128
+        ],
+        "email": "ivy@example.com",
+        "pincode": "19101",
+        "location_name": "Philadelphia, PA, USA",
+        "type": "C",
+        "profile_pic": null,
+        "gst": "GSTIN8899776655"
+    },
+    {
+        "id": 110,
+        "name": "Jack King",
+        "color": [
+            255,
+            215,
+            0
+        ],
+        "email": "jack@example.com",
+        "pincode": "10001",
+        "location_name": "New York, NY, USA",
+        "type": "B",
+        "profile_pic": null,
+        "gst": "GSTIN7755332211"
+    },
+    {
+        "id": 111,
+        "name": "Katie Scott",
+        "color": [
+            255,
+            192,
+            203
+        ],
+        "email": "katie@example.com",
+        "pincode": "94101",
+        "location_name": "San Francisco, CA, USA",
+        "type": "A",
+        "profile_pic": null,
+        "gst": "GSTIN1122445566"
+    },
+    {
+        "id": 112,
+        "name": "Leo Taylor",
+        "color": [
+            0,
+            255,
+            255
+        ],
+        "email": "leo@example.com",
+        "pincode": "60606",
+        "location_name": "Chicago, IL, USA",
+        "type": "C",
+        "profile_pic": null,
+        "gst": "GSTIN9988776655"
+    },
+    {
+        "id": 113,
+        "name": "Mia Walker",
+        "color": [
+            255,
+            69,
+            0
+        ],
+        "email": "mia@example.com",
+        "pincode": "20001",
+        "location_name": "Washington, D.C., USA",
+        "type": "B",
+        "profile_pic": null,
+        "gst": "GSTIN1122009988"
+    },
+    {
+        "id": 114,
+        "name": "Noah Perez",
+        "color": [
+            128,
+            0,
+            0
+        ],
+        "email": "noah@example.com",
+        "pincode": "19102",
+        "location_name": "Philadelphia, PA, USA",
+        "type": "A",
+        "profile_pic": null,
+        "gst": "GSTIN8877665544"
+    },
+    {
+        "id": 115,
+        "name": "Olivia Green",
+        "color": [
+            128,
+            0,
+            128
+        ],
+        "email": "olivia@example.com",
+        "pincode": "77002",
+        "location_name": "Houston, TX, USA",
+        "type": "C",
+        "profile_pic": null,
+        "gst": "GSTIN6677889900"
+    },
+    {
+        "id": 116,
+        "name": "Peter Harris",
+        "color": [
+            0,
+            255,
+            0
+        ],
+        "email": "peter@example.com",
+        "pincode": "90002",
+        "location_name": "Los Angeles, CA, USA",
+        "type": "B",
+        "profile_pic": null,
+        "gst": "GSTIN1122335566"
+    },
+    {
+        "id": 117,
+        "name": "Queen Turner",
+        "color": [
+            0,
+            255,
+            127
+        ],
+        "email": "queen@example.com",
+        "pincode": "30302",
+        "location_name": "Atlanta, GA, USA",
+        "type": "A",
+        "profile_pic": null,
+        "gst": "GSTIN1155889900"
+    }
+]
